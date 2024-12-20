@@ -4,7 +4,7 @@
 
 👨‍💻 Olá, sou **Matheus Madureira da Fonseca**! Sou um profissional de TI apaixonado por resolver problemas, automatizar tarefas e criar soluções inovadoras. Atuo com suporte técnico, automação e desenvolvimento de sistemas.
 
-🌍 Atualmente, estou me mudando para Portugal e sou cidadão português.
+🌍 Sou Brasileiro, com duplanacionalidade portuguesa e me mudando para Portugal
 
 💡 **Áreas de Interesse:**
 - Automação com Python 🐍
