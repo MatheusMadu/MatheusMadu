@@ -11,7 +11,6 @@
 💡 **Áreas de Interesse:**
 - Automação com Python 🐍
 - Análise de Dados 📊
-- Desenvolvimento de Interfaces Gráficas 💻
 - Suporte Técnico e Infraestrutura ⚙️
 
 ## 🌟 Habilidades
