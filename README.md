@@ -1,7 +1,5 @@
 # 👋 Bem-vindo ao Meu GitHub!
 
-![Banner](https://via.placeholder.com/800x200.png?text=Bem-vindo+ao+meu+GitHub)
-
 ## Sobre Mim
 
 👨‍💻 Olá, sou **Matheus Madureira da Fonseca**! Sou um profissional de TI apaixonado por resolver problemas, automatizar tarefas e criar soluções inovadoras. Atuo com suporte técnico, automação e desenvolvimento de sistemas.
