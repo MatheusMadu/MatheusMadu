@@ -4,7 +4,7 @@
 
 👨‍💻 Olá, sou **Matheus Madureira da Fonseca**! Sou um profissional de TI apaixonado por resolver problemas, automatizar tarefas e criar soluções inovadoras. Atuo com suporte técnico, automação e desenvolvimento de sistemas.
 
-🌍 Nascido e criado no Brasil, mais especificamente no Rio de Janeiro, mas também tenho nacionalidade portuguesa e estou me mudando para Portugal
+🌍 Nascido e criado no Brasil, mais especificamente no Rio de Janeiro, mas também tenho nacionalidade portuguesa.
 
 💡 **Áreas de Interesse:**
 - Automação com Python 🐍
